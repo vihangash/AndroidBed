@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">ANDROID-BED</string>
+
+<string name="channel_name">channel_name</string>
+    <string name="channel_description">channel_description</string>
+    <string name="home"> HOME</string>
+    <string name="Hospital_details">HOSPITAL DETAILS</string>
+    <string name="Emergency">EMERGENCY</string>
+
+
+    //login
+    <string name="email">EMAIL ADDRESS</string>
+    <string name="password">PASSWORD</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+
+
+    //register
+    <string name="username">USERNAME</string>
+    <string name="cpassword">CONFIRM PASSWORD</string>
+    <string name="already">   Already have an account? login here!!</string>
+    <string name="showpass">Show Password</string>
+
+
+    //home
+    <string name="position">P O S I T I O N</string>
+    <string name="medicine">M E D I C I N E</string>
+    <string name="emergency">E M E R G E N C Y</string>
+    <string name="settings">S E T T I N G S</string>
+
+    //position
+    <string name="viewposition">V I E W P O S I T I O N</string>
+    <string name="about">A B O U T</string>
+
+
+    //viewPosition
+    <string name="check">V I E W  B E D</string>
+    <string name="stopalarm">Stop Alarm</string>
+    <string name="history">H I S T O R Y</string>
+
+
+    //aboutPosition
+    <string name="aboutPosition">About Position View</string>
+    <string name="aboutPosition1"> ** This will help you to check the position of the patient.Also you can check whether the patient is on the bed
+    or not.the button on the bed will be coloured blue when the patient is on the bed that is not close to the exit.**
+    </string>
+    <string name="aboutPosition2"> ** If the patient is near to the exit the button will be coloured in green.if the patient is tring to get out of the bed you will get a notification and the button color will be yellow,
+        orange or red.if that happen you can check the patient using the view position.or you can go to the patient.**
+    </string>
+</resources>

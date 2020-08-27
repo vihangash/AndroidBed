@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "518703031619",
+    "firebase_url": "https://panicbtn-2bab7.firebaseio.com",
+    "project_id": "panicbtn-2bab7",
+    "storage_bucket": "panicbtn-2bab7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518703031619:android:53f96596e88405f2fdfbf6",
+        "android_client_info": {
+          "package_name": "com.app.androidbed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518703031619-80sd6mqdcc853n6d9n2ps9kvc7tq3kvt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.androidbed",
+            "certificate_hash": "d8172f7b0799b8d2fe0ed63b4700b97ae2627053"
+          }
+        },
+        {
+          "client_id": "518703031619-2uj8i9mg5rmr4bqojl8bic5cdlc20jas.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.androidbed",
+            "certificate_hash": "257fd785079d9aa8bdf0344bdeebff6272849a42"
+          }
+        },
+        {
+          "client_id": "518703031619-9oq39pni6ltrrav2e99ph1tdid2ssdvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKn7SG8MFwd6QoXdqGvrsItlMCOvkaGlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518703031619-9oq39pni6ltrrav2e99ph1tdid2ssdvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518703031619:android:5654a10b729c0b31fdfbf6",
+        "android_client_info": {
+          "package_name": "com.fooding.androidbed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518703031619-to0gnfqlolkqc3t9koun8fptcv0h228u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fooding.androidbed",
+            "certificate_hash": "257fd785079d9aa8bdf0344bdeebff6272849a42"
+          }
+        },
+        {
+          "client_id": "518703031619-9oq39pni6ltrrav2e99ph1tdid2ssdvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKn7SG8MFwd6QoXdqGvrsItlMCOvkaGlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518703031619-9oq39pni6ltrrav2e99ph1tdid2ssdvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
